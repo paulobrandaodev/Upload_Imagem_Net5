@@ -1,0 +1,11 @@
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Upload-File.exe
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Upload-File.dll
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Upload-File.deps.json
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Upload-File.runtimeconfig.json
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Upload-File.pdb
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\paulo.brandao\Desktop\Upload_Imagem_Net5\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

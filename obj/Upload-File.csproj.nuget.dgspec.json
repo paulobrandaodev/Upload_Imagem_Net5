@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo.brandao\\Downloads\\Upload-File\\Upload-File.csproj": {}
+    "C:\\Users\\paulo.brandao\\Desktop\\Upload_Imagem_Net5\\Upload-File.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo.brandao\\Downloads\\Upload-File\\Upload-File.csproj": {
+    "C:\\Users\\paulo.brandao\\Desktop\\Upload_Imagem_Net5\\Upload-File.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo.brandao\\Downloads\\Upload-File\\Upload-File.csproj",
+        "projectUniqueName": "C:\\Users\\paulo.brandao\\Desktop\\Upload_Imagem_Net5\\Upload-File.csproj",
         "projectName": "Upload-File",
-        "projectPath": "C:\\Users\\paulo.brandao\\Downloads\\Upload-File\\Upload-File.csproj",
+        "projectPath": "C:\\Users\\paulo.brandao\\Desktop\\Upload_Imagem_Net5\\Upload-File.csproj",
         "packagesPath": "C:\\Users\\paulo.brandao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo.brandao\\Downloads\\Upload-File\\obj\\",
+        "outputPath": "C:\\Users\\paulo.brandao\\Desktop\\Upload_Imagem_Net5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo.brandao\\AppData\\Roaming\\NuGet\\NuGet.Config",
